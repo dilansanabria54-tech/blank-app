@@ -11,4 +11,4 @@ data = {
 df = pd.DataFrame(data)
 df = df.set_index("Año")
 
-st.line_chart(df)
+st.line_chart(df) 
